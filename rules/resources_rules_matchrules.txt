@@ -1,0 +1,9 @@
+# RED LIGHT
+RULENAME="cm_red_light1",REGEXP="\b(?i)(%reTransportation)\b",LOCATION="NA",NORM="transportation_only"
+
+RULENAME="cm_red_light2",REGEXP="\b(?i)(%reNeeds)\b.*\b(?i)(%reTransportation)\b",LOCATION="NA",NORM="transportation_prefix"
+
+
+RULENAME="cm_red_light3",REGEXP="\b(?i)(%reTransportation)\b.*\b(?i)(%reNeeds)\b",LOCATION="NA",NORM="transportation_suffix"
+
+RULENAME="cm_red_light4",REGEXP="\b(?i)(%reNeeds)\b.*\b(?i)(%reTransportation)\b.*\b(?i)(%reNeeds)\b",LOCATION="NA",NORM="transportation_prefix_and_suffix"

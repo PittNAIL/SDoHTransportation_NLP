@@ -1,0 +1,152 @@
+she is not~|~pseudo~|~neg~|~1
+he is not~|~pseudo~|~neg~|~1
+pt is not~|~pseudo~|~neg~|~1
+px is not~|~pseudo~|~neg~|~1
+patient is not~|~pseudo~|~neg~|~1
+is not~|~pseudo~|~neg~|~1
+I am not~|~pseudo~|~neg~|~1
+I'm not~|~pseudo~|~neg~|~1
+she can't~|~pseudo~|~neg~|~1
+he can't~|~pseudo~|~neg~|~1
+pt can't~|~pseudo~|~neg~|~1
+px can't~|~pseudo~|~neg~|~1
+patient can't~|~pseudo~|~neg~|~1
+I can't~|~pseudo~|~neg~|~1
+can't~|~pseudo~|~neg~|~1
+she is no longer~|~pseudo~|~neg~|~1
+he is no longer~|~pseudo~|~neg~|~1
+pt is no longer~|~pseudo~|~neg~|~1
+px is no longer~|~pseudo~|~neg~|~1
+patient is no longer~|~pseudo~|~neg~|~1
+is no longer~|~pseudo~|~neg~|~1
+I am no longer~|~pseudo~|~neg~|~1
+I'm no longer~|~pseudo~|~neg~|~1
+no longer~|~pseudo~|~neg~|~1
+she does not~|~pseudo~|~neg~|~1
+he does not~|~pseudo~|~neg~|~1
+pt does not~|~pseudo~|~neg~|~1
+px does not~|~pseudo~|~neg~|~1
+patient does not~|~pseudo~|~neg~|~1
+does not~|~pseudo~|~neg~|~1
+she is currently not~|~pseudo~|~neg~|~1
+he is currently not~|~pseudo~|~neg~|~1
+pt is currently not~|~pseudo~|~neg~|~1
+px is currently not~|~pseudo~|~neg~|~1
+patient is currently not~|~pseudo~|~neg~|~1
+is currently not~|~pseudo~|~neg~|~1
+currently not~|~pseudo~|~neg~|~1
+she is still not~|~pseudo~|~neg~|~1
+he is still not~|~pseudo~|~neg~|~1
+pt is still not~|~pseudo~|~neg~|~1
+px is still not~|~pseudo~|~neg~|~1
+patient is still not~|~pseudo~|~neg~|~1
+is still not~|~pseudo~|~neg~|~1
+she has not~|~pseudo~|~neg~|~1
+he has not~|~pseudo~|~neg~|~1
+pt has not~|~pseudo~|~neg~|~1
+px has not~|~pseudo~|~neg~|~1
+patient has not~|~pseudo~|~neg~|~1
+has not~|~pseudo~|~neg~|~1
+she not~|~pseudo~|~neg~|~1
+he not~|~pseudo~|~neg~|~1
+pt not~|~pseudo~|~neg~|~1
+px not~|~pseudo~|~neg~|~1
+patient not~|~pseudo~|~neg~|~1
+not~|~pseudo~|~neg~|~1
+she cannot~|~pseudo~|~neg~|~1
+he cannot~|~pseudo~|~neg~|~1
+I cannot~|~pseudo~|~neg~|~1
+they cannot~|~pseudo~|~neg~|~1
+pt cannot~|~pseudo~|~neg~|~1
+px cannot~|~pseudo~|~neg~|~1
+at night~|~post~|~neg~|~1
+at nite~|~post~|~neg~|~1
+at nigh~|~post~|~neg~|~1
+ay night~|~post~|~neg~|~1
+at nighttime~|~post~|~neg~|~1
+@ night~|~post~|~neg~|~1
+@ nighttime~|~post~|~neg~|~1
+as much at night~|~post~|~neg~|~1
+as much @ night~|~post~|~neg~|~1
+in the dark~|~post~|~neg~|~1
+as much~|~post~|~poss~|~1
+until~|~post~|~poss~|~1
+since the surgery~|~post~|~poss~|~1
+recently~|~post~|~poss~|~1
+was in a car \(not~|~pre~|~neg~|~1
+the importance of not~|~pre~|~poss~|~1
+a school bus~|~post~|~neg~|~1
+if not~|~pre~|~neg~|~1
+in the evening so not~|~pre~|~neg~|~1
+encouraged to continue~|~pre~|~neg~|~1
+in the meantime not~|~pre~|~neg~|~1
+in the meantime discussed not~|~pre~|~neg~|~1
+after drinking~|~post~|~neg~|~1
+and has not been driving~|~pseudo~|~neg~|~1
+a truck~|~post~|~neg~|~1
+driving after not~|~pre~|~neg~|~1
+reiterated importance of not~|~pre~|~poss~|~1
+until~|~post~|~poss~|~1
+with first set of contacts~|~post~|~neg~|~1
+yet~|~post~|~poss~|~1
+has been~|~pre~|~neg~|~1
+encouraged to continue not~|~pre~|~poss~|~1
+avoid night~|~pre~|~neg~|~1
+at night~|~pre~|~poss~|~1
+as often~|~post~|~poss~|~1
+at right now~|~post~|~neg~|~1
+in dark~|~post~|~neg~|~1
+having more trouble with night~|~pre~|~neg~|~1
+very much~|~post~|~poss~|~1
+while~|~pre~|~neg~|~1
+does not have a car~|~pseudo~|~neg~|~1
+in the evening~|~pre~|~neg~|~1
+night glare~|~pre~|~neg~|~1
+glare at night~|~pre~|~neg~|~1
+in unfamiliar areas~|~post~|~poss~|~1
+unable to~|~pseudo~|~neg~|~1
+she is unable to~|~pseudo~|~neg~|~1
+he is unable to~|~pseudo~|~neg~|~1
+pt is unable to~|~pseudo~|~neg~|~1
+px is unable to~|~pseudo~|~neg~|~1
+patient is unable to~|~pseudo~|~neg~|~1
+is unable to~|~pseudo~|~neg~|~1
+I am unable to~|~pseudo~|~neg~|~1
+I'm unable to~|~pseudo~|~neg~|~1
+she unable to~|~pseudo~|~neg~|~1
+he unable to~|~pseudo~|~neg~|~1
+pt unable to~|~pseudo~|~neg~|~1
+px unable to~|~pseudo~|~neg~|~1
+patient unable to~|~pseudo~|~neg~|~1
+home from school~|~post~|~poss~|~1
+in rain~|~post~|~neg~|~1
+in the rain~|~post~|~neg~|~1
+in low light~|~post~|~neg~|~1
+long distances~|~post~|~poss~|~1
+and listen to music at the same time~|~post~|~neg~|~1
+with bifocals~|~post~|~poss~|~1
+without a patch~|~post~|~poss~|~1
+almost unable to~|~pre~|~neg~|~1
+it is not safe to~|~pseudo~|~neg~|~1
+continues to~|~pre~|~poss~|~1
+without contacts~|~post~|~neg~|~1
+without glasses~|~post~|~neg~|~1
+in glasses~|~post~|~neg~|~1
+otherwise~|~post~|~neg~|~1
+at times~|~post~|~poss~|~1
+with the window down~|~post~|~neg~|~1
+after dilation~|~post~|~neg~|~1
+after dusk~|~post~|~neg~|~1
+in the snow~|~post~|~neg~|~1
+far by himself~|~post~|~poss~|~1
+far by herself~|~post~|~poss~|~1
+for long periods~|~post~|~poss~|~1
+with drops~|~post~|~neg~|~1
+after dark~|~post~|~neg~|~1
+wife can't~|~pre~|~poss~|~1
+husband can't~|~pre~|~poss~|~1
+with them~|~post~|~poss~|~1
+while taking it~|~post~|~poss~|~1
+far~|~post~|~poss~|~1
+distances~|~post~|~poss~|~1
+some days~|~post~|~poss~|~1

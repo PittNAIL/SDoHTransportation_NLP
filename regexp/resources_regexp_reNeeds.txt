@@ -1,0 +1,47 @@
+work on
+option(s)
+issue(s)
+due to
+assist(ance)?
+access
+adequate
+discuss(ed|es|ing)
+(un)?able
+accommodation
+support
+agree(s)?
+appl(y|ies)
+arrang(es|ed|e|ing)?
+need(s)
+blam(e|es|ing)
+find(s|ing)
+connect(ing|ed)?
+could(n't| not)
+did(n't|not)
+difficult(y|ies)?
+get(ting)?
+help
+does(n't| not)
+lack(s|ing)?
+easier
+EMS
+investigate
+us(es|e|ing)
+depend(s|ing)?
+organiz(es|e|ing)
+coordination
+possible
+resources
+limit(s|ations)?
+convenience
+trouble(s)?
+secur(es|e|ing)
+concern(s)?
+regarding
+reli(es|able|ant)
+time allowance
+problem(s)?
+challeng(es|e|ing)
+purpose(s)?
+offer(s|ed)
+provid(es|ed|e|ing)

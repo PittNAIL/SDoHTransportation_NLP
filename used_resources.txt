@@ -1,0 +1,3 @@
+./regexp/resources_regexp_reTransportation.txt
+./regexp/resources_regexp_reNeeds.txt
+./rules/resources_rules_matchrules.txt
